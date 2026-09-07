@@ -84,7 +84,8 @@
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Architecture+Diagram" alt="Architecture Diagram" width="80%"/>
+  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0bbc791f-2d14-4ced-9621-31694d47827e" />
+
 </p>
 
 ```
